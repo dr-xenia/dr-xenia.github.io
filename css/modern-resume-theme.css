@@ -1,6 +1,6 @@
-@import "base";
-@import "button";
-@import "type";
+@import "base.css";
+@import "button.css";
+@import "type.css";
 
 .nav {
     list-style: none;
