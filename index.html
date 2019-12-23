@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
+  <title>Xenia Kobeleva's personal page</title>
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+  <script> 
+    $(function(){
+      $("#header").load("/docs/header.html"); 
+      $("#footer").load("/docs/footer.html"); 
+    });
+  </script> 
+</head>  
 </head>  
 
 <body>
-  <!--#include file="/docs/header.html" -->
+  <!--#include file="/header.html" -->
   <!--Remaining section-->
   <h1>Hello World</h1>
 </body>
