@@ -25,10 +25,6 @@ h6 {
 p {
   margin: 0 0 0.75em; }
 
-.card-body > p {
-    font-size: 1em;
-}
-
 a {
   color: #000000;
   transition: color 150ms ease;
