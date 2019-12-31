@@ -247,6 +247,7 @@ p.quote {
 margin-bottom: 30px;
 margin: 30px auto;
 padding: 10px;
+border-style: dotted;
 border-radius: 20px;
-box-shadow: 2px 2px 7px 5px rgba(0,0,0,0.25), -2px -2px 7px 5px rgba(0,0,0,0.22);
+border-color: #CCCCCC;
 }
