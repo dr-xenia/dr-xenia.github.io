@@ -242,3 +242,11 @@ p.quote {
     margin-top: 1em;
   }
 }
+
+.card{
+margin-bottom: 30px;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 7px rgba(0,0,0,0.25), -5px -5px 10px 7px rgba(0,0,0,0.22);
+}
